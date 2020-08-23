@@ -37,3 +37,8 @@ Acessando a Aplicação
 ```
 http://127.0.0.1:8000
 ```
+
+## 🌐 Build - DockerHub
+```
+https://hub.docker.com/r/carlosmendesrv/starting-with-docker
+```
